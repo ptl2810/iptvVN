@@ -1617,16 +1617,6 @@ http://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐 Thiết Yếu" tvg-logo="https://i.ytimg.com/vi/sFLUmdwp0Z8/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="1574" group-title="🛒 Bán Hàng" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24
-http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="744" group-title="🛒 Bán Hàng" tvg-logo="https://i.imgur.com/EMmGnjV.png",Shopping Live
-http://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
-#EXTINF:-1 group-title="🛒 Bán Hàng" tvg-logo="https://i.imgur.com/lzQsVfn.png",Vitrina TV
-http://v4.proofix.ru:80/vitrina-live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r485aZL.png" group-title="🛒 Bán Hàng",МАГНАТ
-http://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1 tvg-id="2043" group-title="🛒 Bán Hàng" tvg-logo="https://i.imgur.com/IcWtXCZ.png",Ювелирочка
-http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="📦 Kênh Khác" group-logo="https://i.imgur.com/IPNh4tM.png" tvg-id="hanoi90" tvg-logo="https://i.postimg.cc/5Qd2rzFC/HN90.png",Hà Nội FM90
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
 #EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="hanoi96" tvg-logo="https://i.postimg.cc/NLmMHdWV/HN96.png",Hà Nội FM96
@@ -1671,47 +1661,6 @@ http://ep128.hostingradio.ru:8030/ep128
 http://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/AsMjZ51.png" radio="true",Новое Радио
 http://icecast.newradio.cdnvideo.ru/newradio3
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko", CJB SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/250px-Jtv_logo.svg.png?_=20220328012951", JTV SBS
-http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/250px-G1_broadcasting_logo.svg.png", G1 SBS
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png", MBC
-https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1392208922.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EC%B6%98%EC%B2%9C_MBC.svg/3840px-%EC%B6%98%EC%B2%9C_MBC.svg.png", MBC Chuncheon
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://i.namu.wiki/i/_ok2k1eWuOVMUOzJvkKfMho8XkxLgcH5iEsIGNhQzDp4aRF14b5Xmix5m89ilmJuHqOg-aMghY-3f6xLgX53_mZGuqrhJ36wlohgy64HTGlhuK8Xeg7eybN6MtuGWP62k4aN6EeDPPNT0_VL4T-GpQ.webp", MBC Chungbuk
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://imgs.jobkorea.co.kr/img1/_whitebg/200X80/Co_Logo/Logo/2018/8/3/2r1wp00cPs_aWuzporsudz4s2os0ipMuSr_mvdfgo2ps.jpg?v=202607081751&hash=r&serviceCode=CL", MBC Daegu
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://jejumbc.com/main/images/news/jj1.jpg", MBC Jeju
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Munhwa_Broadcasting_Corporation.svg/960px-Munhwa_Broadcasting_Corporation.svg.png", MBC Mokpo
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MBC_logo.png", MBC Yeosu
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://logowik.com/content/uploads/images/ebs1-20181732222724.logowik.com.webp", EBS1
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png", EBS2
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://cdn.aptoide.com/imgs/6/7/e/67edd0054bd79fb633b11710eeeba298_fgraphic.png", EBS E
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://i.ytimg.com/vi/pra1kNRrxgc/hq720.jpg", EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png/revision/latest?cb=20180627174859", EBS+1
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png/revision/latest?cb=20180627175021", EBS+2
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/1280px-TV_Chosun_Logo_%28English%29.svg.png", TV Chosun
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://www.bntnews.co.kr/data/bnt/image/201811/ab30063c0cd3b45d2fec9cd829c428e5.jpg", TV Chosun 2
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png", TVN
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Aqua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.miekgo.app/live/18812304.m3u8
